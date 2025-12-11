@@ -1,0 +1,9 @@
+POST http://localhost:5000/process
+Content-Type: application/json
+x-api-key: demo123
+
+{
+  "prompt": "Persistent cough and mild fever for 3 days",
+  "note_id": "case001",
+  "timestamp": "2025-12-11T12:00:00Z"
+}
