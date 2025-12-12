@@ -1,0 +1,8 @@
+{
+  "local-001": {
+    "note_id": "local-001",
+    "timestamp": "2025-12-12T09:00:00Z",
+    "prompt": "I have headache since morning with mild fever",
+    "article": "# I have headache since morning with mild fever\n\n## Summary\nThis is a deterministic demo summary generated in MOCK mode for: \"I have headache since morning with mild fever\".\n\n## Key Points\n- Point 1: High-level takeaway.\n- Point 2: Practical advice.\n\n## Recommendation\nConsult a healthcare provider if symptoms persist.\n\n*Generated in MOCK mode.*"
+  }
+}
